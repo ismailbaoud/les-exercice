@@ -40,14 +40,14 @@ console.log("a=",a," b=",b);
 
 let rayon = 5;
 let c = 2 * 3.14 * rayon;
-console.log("La circonference du cercle est : " + c);
+console.log("La circonference du cercle est : ",c);
 
 //exercice 7:
 
 
 let celsius = 22;
 let fahrenheit = celsius * (9 / 5) + 32;
-console.log(celsius + "C est equivalent à " + fahrenheit + "f");
+console.log(celsius,"C est equivalent à ",fahrenheit,"f");
 
 
 
