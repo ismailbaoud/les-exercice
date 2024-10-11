@@ -39,32 +39,32 @@ console.log("a=");console.log(a);console.log("b=");console.log(b);
 //exercice 6 :
 
 let rayon = 5;
-let C = 2 * 3.14 * rayon;
-console.log("La circonférence du cercle est : " + C);
+let c = 2 * 3.14 * rayon;
+console.log("La circonference du cercle est : " + c);
 
 //exercice 7:
 
 
 let celsius = 22;
 let fahrenheit = celsius * (9 / 5) + 32;
-console.log(celsius + "°C est équivalent à " + fahrenheit + "°F");
+console.log(celsius + "C est equivalent à " + fahrenheit + "f");
 
 
 
 //exercice 8:
 
 
-let anneeNaissance = 1990;
-let anneeActuelle = 2024;
-let Age = anneeActuelle - anneeNaissance;
-console.log("L'âge de la personne est :", age);
+let anneenaissance = 1990;
+let anneeactuelle = 2024;
+let Age = anneeactuelle - anneenaissance;
+console.log("L'age de la personne est :", Age);
 
 //exercice 9 :
 
 let longueur = 10;
 let largeur = 5;
 let perimetre = 2 * (longueur + largeur);
-console.log("Le périmètre du rectangle est :", perimetre);
+console.log("Le perimetre du rectangle est :", perimetre);
 //exercice 10 :
 
 let note1 = 13;
