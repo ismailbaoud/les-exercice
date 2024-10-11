@@ -30,11 +30,11 @@ console.log(majeur);
 let a=4;
 let b=8;
 let c;
-console.log("a=");console.log(a);console.log("b=");console.log(b);
+console.log("a=",a," b=",b);
 c=a;
 a=b;
 b=c;
-console.log("a=");console.log(a);console.log("b=");console.log(b);
+console.log("a=",a," b=",b);
 
 //exercice 6 :
 
